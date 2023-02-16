@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\CountSpacesString\bin\Debug\net7.0\CountSpacesString.exe
+D:\practicVisualStudio\MathExercises\CountSpacesString\bin\Debug\net7.0\CountSpacesString.deps.json
+D:\practicVisualStudio\MathExercises\CountSpacesString\bin\Debug\net7.0\CountSpacesString.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\CountSpacesString\bin\Debug\net7.0\CountSpacesString.dll
+D:\practicVisualStudio\MathExercises\CountSpacesString\bin\Debug\net7.0\CountSpacesString.pdb
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.dll
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\refint\CountSpacesString.dll
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.pdb
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\CountSpacesString.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\CountSpacesString\obj\Debug\net7.0\ref\CountSpacesString.dll

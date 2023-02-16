@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\MaxMinNumber\bin\Debug\net7.0\MaxMinNumber.exe
+D:\practicVisualStudio\MathExercises\MaxMinNumber\bin\Debug\net7.0\MaxMinNumber.deps.json
+D:\practicVisualStudio\MathExercises\MaxMinNumber\bin\Debug\net7.0\MaxMinNumber.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\MaxMinNumber\bin\Debug\net7.0\MaxMinNumber.dll
+D:\practicVisualStudio\MathExercises\MaxMinNumber\bin\Debug\net7.0\MaxMinNumber.pdb
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.dll
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\refint\MaxMinNumber.dll
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.pdb
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\MaxMinNumber.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\MaxMinNumber\obj\Debug\net7.0\ref\MaxMinNumber.dll
