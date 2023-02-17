@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountSpacesString", "CountS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMinNumber", "MaxMinNumber\MaxMinNumber.csproj", "{119718D0-A093-405A-A17C-0861E4D228CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfDivisors", "NumberOfDivisors\NumberOfDivisors.csproj", "{CC71ADBE-9532-4600-ABFC-DA1A85853734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfDivisors", "NumberOfDivisors\NumberOfDivisors.csproj", "{CC71ADBE-9532-4600-ABFC-DA1A85853734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{EE67A67F-B3AC-4BB8-AC2F-10AF1F169B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{EE67A67F-B3AC-4BB8-AC2F-10AF1F169B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberInArray", "PrimeNumberInArray\PrimeNumberInArray.csproj", "{C4F95D21-1E00-4270-8012-BF31426A66E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EE67A67F-B3AC-4BB8-AC2F-10AF1F169B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE67A67F-B3AC-4BB8-AC2F-10AF1F169B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE67A67F-B3AC-4BB8-AC2F-10AF1F169B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

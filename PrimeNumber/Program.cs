@@ -1,27 +1,35 @@
-﻿//Kiritilgan son tub yoki tub emasligini aniqlovchi dastur
-bool isPrime(int number)
+﻿//notogri ishlasa mandanmas!!
+class Program
 {
-    if (number == 1) return false;
-    if (number == 2) return true;
-
-    var limit = Math.Ceiling(Math.Sqrt(number)); //hoisting the loop limit
-
-    for (int i = 2; i <= limit; ++i)
-        if (number % i == 0)
-            return false;
-    return true;
-
-}
-isPrime(15);
-//Ikkinchi usul
-static bool IsPrime(int n)
-{
-    if (n > 1)
+    static void Main(string[] args)
     {
-        return Enumerable.Range(1, n).Where(x => n % x == 0)
-                         .SequenceEqual(new[] { 1, n });
-    }
+        int i, number;
+        Console.Write("Son kiriting:");
+        number = Convert.ToInt32(Console.ReadLine());
+        
+        double limit = (int)Math.Ceiling(Math.Sqrt(number));
 
-    return false;
+        if (number%3==0)
+        {
+            Console.WriteLine("Tub emas!!!");
+        }
+        for (i = 2; i <limit; i+=3)
+        {
+            if ((number % i) == 0)
+            {
+                Console.WriteLine("Tub emas");
+
+                break;
+            }
+
+            else
+            {
+                Console.WriteLine("Tub"); break;
+
+            }
+        }
+        
+       
+
+    }  
 }
-IsPrime(45);
