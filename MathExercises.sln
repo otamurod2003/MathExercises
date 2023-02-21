@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfDivisors", "NumberO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{EE67A67F-B3AC-4BB8-AC2F-10AF1F169B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberInArray", "PrimeNumberInArray\PrimeNumberInArray.csproj", "{C4F95D21-1E00-4270-8012-BF31426A66E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumberInArray", "PrimeNumberInArray\PrimeNumberInArray.csproj", "{C4F95D21-1E00-4270-8012-BF31426A66E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumberInString", "FindNumberInString\FindNumberInString.csproj", "{C72A8A9A-1BC4-4BAD-9DD9-F6916BC12501}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4F95D21-1E00-4270-8012-BF31426A66E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72A8A9A-1BC4-4BAD-9DD9-F6916BC12501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72A8A9A-1BC4-4BAD-9DD9-F6916BC12501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72A8A9A-1BC4-4BAD-9DD9-F6916BC12501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72A8A9A-1BC4-4BAD-9DD9-F6916BC12501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

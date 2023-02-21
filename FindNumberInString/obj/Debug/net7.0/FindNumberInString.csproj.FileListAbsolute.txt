@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\FindNumberInString\bin\Debug\net7.0\FindNumberInString.exe
+D:\practicVisualStudio\MathExercises\FindNumberInString\bin\Debug\net7.0\FindNumberInString.deps.json
+D:\practicVisualStudio\MathExercises\FindNumberInString\bin\Debug\net7.0\FindNumberInString.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\FindNumberInString\bin\Debug\net7.0\FindNumberInString.dll
+D:\practicVisualStudio\MathExercises\FindNumberInString\bin\Debug\net7.0\FindNumberInString.pdb
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.dll
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\refint\FindNumberInString.dll
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.pdb
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\FindNumberInString.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\FindNumberInString\obj\Debug\net7.0\ref\FindNumberInString.dll
