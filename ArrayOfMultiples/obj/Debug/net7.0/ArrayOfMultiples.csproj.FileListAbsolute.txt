@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\bin\Debug\net7.0\ArrayOfMultiples.exe
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\bin\Debug\net7.0\ArrayOfMultiples.deps.json
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\bin\Debug\net7.0\ArrayOfMultiples.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\bin\Debug\net7.0\ArrayOfMultiples.dll
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\bin\Debug\net7.0\ArrayOfMultiples.pdb
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.dll
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\refint\ArrayOfMultiples.dll
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.pdb
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ArrayOfMultiples.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\ArrayOfMultiples\obj\Debug\net7.0\ref\ArrayOfMultiples.dll
