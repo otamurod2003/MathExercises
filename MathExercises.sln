@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindNumberInString", "FindN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOfMultiples", "ArrayOfMultiples\ArrayOfMultiples.csproj", "{07E5F4ED-7C79-4823-81A1-F351D75B053D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountVowels", "CountVowels\CountVowels.csproj", "{0EF300D8-E241-4C56-AB7C-26D4097ADE23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{07E5F4ED-7C79-4823-81A1-F351D75B053D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E5F4ED-7C79-4823-81A1-F351D75B053D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E5F4ED-7C79-4823-81A1-F351D75B053D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF300D8-E241-4C56-AB7C-26D4097ADE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF300D8-E241-4C56-AB7C-26D4097ADE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF300D8-E241-4C56-AB7C-26D4097ADE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF300D8-E241-4C56-AB7C-26D4097ADE23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\CountVowels\bin\Debug\net7.0\CountVowels.exe
+D:\practicVisualStudio\MathExercises\CountVowels\bin\Debug\net7.0\CountVowels.deps.json
+D:\practicVisualStudio\MathExercises\CountVowels\bin\Debug\net7.0\CountVowels.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\CountVowels\bin\Debug\net7.0\CountVowels.dll
+D:\practicVisualStudio\MathExercises\CountVowels\bin\Debug\net7.0\CountVowels.pdb
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.dll
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\refint\CountVowels.dll
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.pdb
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\CountVowels.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\CountVowels\obj\Debug\net7.0\ref\CountVowels.dll

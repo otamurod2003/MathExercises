@@ -4,9 +4,9 @@
  int space = 0;
        for (int i = 0; i < words.Length; i++)
        {
-            if (words[i] == ' ')
+            if (words[i] == ' ') 
             {
-             space++;
+               space++;
             }
        }
 Console.WriteLine("Spaces: " + space);
