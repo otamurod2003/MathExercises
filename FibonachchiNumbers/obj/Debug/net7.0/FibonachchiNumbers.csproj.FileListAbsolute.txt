@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\bin\Debug\net7.0\FibonachchiNumbers.exe
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\bin\Debug\net7.0\FibonachchiNumbers.deps.json
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\bin\Debug\net7.0\FibonachchiNumbers.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\bin\Debug\net7.0\FibonachchiNumbers.dll
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\bin\Debug\net7.0\FibonachchiNumbers.pdb
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.dll
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\refint\FibonachchiNumbers.dll
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.pdb
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\FibonachchiNumbers.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\FibonachchiNumbers\obj\Debug\net7.0\ref\FibonachchiNumbers.dll
