@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\MathEx\bin\Debug\net7.0\MathEx.exe
+D:\practicVisualStudio\MathExercises\MathEx\bin\Debug\net7.0\MathEx.deps.json
+D:\practicVisualStudio\MathExercises\MathEx\bin\Debug\net7.0\MathEx.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\MathEx\bin\Debug\net7.0\MathEx.dll
+D:\practicVisualStudio\MathExercises\MathEx\bin\Debug\net7.0\MathEx.pdb
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.dll
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\refint\MathEx.dll
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.pdb
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\MathEx.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\MathEx\obj\Debug\net7.0\ref\MathEx.dll

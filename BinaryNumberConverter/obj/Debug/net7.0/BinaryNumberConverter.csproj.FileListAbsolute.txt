@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\bin\Debug\net7.0\BinaryNumberConverter.exe
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\bin\Debug\net7.0\BinaryNumberConverter.deps.json
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\bin\Debug\net7.0\BinaryNumberConverter.runtimeconfig.json
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\bin\Debug\net7.0\BinaryNumberConverter.dll
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\bin\Debug\net7.0\BinaryNumberConverter.pdb
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.AssemblyInfo.cs
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.dll
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\refint\BinaryNumberConverter.dll
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.pdb
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\BinaryNumberConverter.genruntimeconfig.cache
+D:\practicVisualStudio\MathExercises\BinaryNumberConverter\obj\Debug\net7.0\ref\BinaryNumberConverter.dll
