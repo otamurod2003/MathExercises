@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\SumNumbersWithInText\bin\Debug\net7.0\SumNumbersWithInText.exe
+D:\myPractic\MathExercises\SumNumbersWithInText\bin\Debug\net7.0\SumNumbersWithInText.deps.json
+D:\myPractic\MathExercises\SumNumbersWithInText\bin\Debug\net7.0\SumNumbersWithInText.runtimeconfig.json
+D:\myPractic\MathExercises\SumNumbersWithInText\bin\Debug\net7.0\SumNumbersWithInText.dll
+D:\myPractic\MathExercises\SumNumbersWithInText\bin\Debug\net7.0\SumNumbersWithInText.pdb
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.AssemblyInfo.cs
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.dll
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\refint\SumNumbersWithInText.dll
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.pdb
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\SumNumbersWithInText.genruntimeconfig.cache
+D:\myPractic\MathExercises\SumNumbersWithInText\obj\Debug\net7.0\ref\SumNumbersWithInText.dll
