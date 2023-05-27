@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountVowels", "CountVowels\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonachchiNumbers", "FibonachchiNumbers\FibonachchiNumbers.csproj", "{FAF02C25-ED8A-4175-A978-AE6817F69C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathEx", "MathEx\MathEx.csproj", "{A9575B00-09A8-4770-BC02-C418356F5B8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathEx", "MathEx\MathEx.csproj", "{A9575B00-09A8-4770-BC02-C418356F5B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumberConverter", "BinaryNumberConverter\BinaryNumberConverter.csproj", "{B0729F03-668B-4C96-9EC1-FBD1206D95A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryNumberConverter", "BinaryNumberConverter\BinaryNumberConverter.csproj", "{B0729F03-668B-4C96-9EC1-FBD1206D95A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{164EA870-E919-4C5E-8BF8-961DCEE1B4D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B0729F03-668B-4C96-9EC1-FBD1206D95A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0729F03-668B-4C96-9EC1-FBD1206D95A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0729F03-668B-4C96-9EC1-FBD1206D95A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164EA870-E919-4C5E-8BF8-961DCEE1B4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164EA870-E919-4C5E-8BF8-961DCEE1B4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164EA870-E919-4C5E-8BF8-961DCEE1B4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164EA870-E919-4C5E-8BF8-961DCEE1B4D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

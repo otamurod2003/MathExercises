@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj": {}
+    "D:\\myPractic\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj": {
+    "D:\\myPractic\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj",
+        "projectUniqueName": "D:\\myPractic\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj",
         "projectName": "BinaryNumberConverter",
-        "projectPath": "D:\\practicVisualStudio\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj",
+        "projectPath": "D:\\myPractic\\MathExercises\\BinaryNumberConverter\\BinaryNumberConverter.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\practicVisualStudio\\MathExercises\\BinaryNumberConverter\\obj\\",
+        "outputPath": "D:\\myPractic\\MathExercises\\BinaryNumberConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -23,7 +23,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Users\\Администратор\\.nuget\\packages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org": {}
         },
         "frameworks": {
           "net7.0": {
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

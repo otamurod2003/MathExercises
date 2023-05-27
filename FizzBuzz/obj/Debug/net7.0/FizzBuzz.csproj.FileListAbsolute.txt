@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\FizzBuzz\bin\Debug\net7.0\FizzBuzz.exe
+D:\myPractic\MathExercises\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+D:\myPractic\MathExercises\FizzBuzz\bin\Debug\net7.0\FizzBuzz.runtimeconfig.json
+D:\myPractic\MathExercises\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+D:\myPractic\MathExercises\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\FizzBuzz.genruntimeconfig.cache
+D:\myPractic\MathExercises\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll

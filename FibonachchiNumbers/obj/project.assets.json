@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practicVisualStudio\\MathExercises\\FibonachchiNumbers\\FibonachchiNumbers.csproj",
+      "projectUniqueName": "D:\\myPractic\\MathExercises\\FibonachchiNumbers\\FibonachchiNumbers.csproj",
       "projectName": "FibonachchiNumbers",
-      "projectPath": "D:\\practicVisualStudio\\MathExercises\\FibonachchiNumbers\\FibonachchiNumbers.csproj",
+      "projectPath": "D:\\myPractic\\MathExercises\\FibonachchiNumbers\\FibonachchiNumbers.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "D:\\practicVisualStudio\\MathExercises\\FibonachchiNumbers\\obj\\",
+      "outputPath": "D:\\myPractic\\MathExercises\\FibonachchiNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,7 +29,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\Администратор\\.nuget\\packages": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org": {}
       },
       "frameworks": {
         "net7.0": {
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
