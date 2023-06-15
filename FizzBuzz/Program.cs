@@ -1,19 +1,27 @@
-﻿Console.Write("Enter number : ");
-int a = Convert.ToInt32(Console.ReadLine());
+﻿using System;
 
-if(a % 3 == 0)
+class Program
 {
-    Console.WriteLine("Fizz");
-}
-if(a % 5 == 0)
-{
-    Console.WriteLine("Buzz");
-}
-if ((a % 5 == 0)&&(a % 3 == 0))
-{
-    Console.WriteLine("Fizz Buzz");
-}
-else if(a%5==0 || a%3==0 || (a%3==0&&a%5==0))
-{
-    Console.WriteLine("not FizzBuzz");
+    static void Main()
+    {
+        for (int i = 1; i <= 100; i++)
+        {
+            if (i % 3 == 0 && i % 5 == 0)
+            {
+                Console.WriteLine("FizzBuzz");
+            }
+            else if (i % 3 == 0)
+            {
+                Console.WriteLine("Fizz");
+            }
+            else if (i % 5 == 0)
+            {
+                Console.WriteLine("Buzz");
+            }
+            else
+            {
+                Console.WriteLine(i);
+            }
+        }
+    }
 }
