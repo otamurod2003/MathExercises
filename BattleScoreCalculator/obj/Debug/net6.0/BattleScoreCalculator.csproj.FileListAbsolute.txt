@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\BattleScoreCalculator\bin\Debug\net6.0\BattleScoreCalculator.exe
+D:\myPractic\MathExercises\BattleScoreCalculator\bin\Debug\net6.0\BattleScoreCalculator.deps.json
+D:\myPractic\MathExercises\BattleScoreCalculator\bin\Debug\net6.0\BattleScoreCalculator.runtimeconfig.json
+D:\myPractic\MathExercises\BattleScoreCalculator\bin\Debug\net6.0\BattleScoreCalculator.dll
+D:\myPractic\MathExercises\BattleScoreCalculator\bin\Debug\net6.0\BattleScoreCalculator.pdb
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.AssemblyInfo.cs
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.dll
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\refint\BattleScoreCalculator.dll
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.pdb
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\BattleScoreCalculator.genruntimeconfig.cache
+D:\myPractic\MathExercises\BattleScoreCalculator\obj\Debug\net6.0\ref\BattleScoreCalculator.dll
