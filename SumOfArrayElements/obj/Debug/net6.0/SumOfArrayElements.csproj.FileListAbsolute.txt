@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.exe
+D:\myPractic\MathExercises\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.deps.json
+D:\myPractic\MathExercises\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.runtimeconfig.json
+D:\myPractic\MathExercises\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.dll
+D:\myPractic\MathExercises\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.pdb
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.AssemblyInfo.cs
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.dll
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\refint\SumOfArrayElements.dll
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.pdb
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.genruntimeconfig.cache
+D:\myPractic\MathExercises\SumOfArrayElements\obj\Debug\net6.0\ref\SumOfArrayElements.dll
