@@ -11,7 +11,7 @@
         int[] secondScore = new int[rounds];
 
         Thread.Sleep(1000);
-        Console.WriteLine("Enter the first fighter scores: ");//Birinchi jangchi ballarini kiritish
+        Console.WriteLine("Enter the first fighter scores: "); //Birinchi jangchi ballarini kiritish
         for (int i = 0; i < rounds; i++)
         {
             Console.Write($"{i + 1} round: ");
@@ -20,7 +20,7 @@
         }
         Console.WriteLine("Okay");
         Thread.Sleep(1000);
-        Console.WriteLine("Enter the second fighter scores: ");//Ikkinchi jangchi ballarini kiritish
+        Console.WriteLine("Enter the second fighter scores: "); //Ikkinchi jangchi ballarini kiritish
         for (int i = 0; i < rounds; i++)
         {
             Console.Write($"{i + 1} round: ");

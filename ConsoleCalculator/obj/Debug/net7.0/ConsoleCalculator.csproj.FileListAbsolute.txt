@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\ConsoleCalculator\bin\Debug\net7.0\ConsoleCalculator.exe
+D:\myPractic\MathExercises\ConsoleCalculator\bin\Debug\net7.0\ConsoleCalculator.deps.json
+D:\myPractic\MathExercises\ConsoleCalculator\bin\Debug\net7.0\ConsoleCalculator.runtimeconfig.json
+D:\myPractic\MathExercises\ConsoleCalculator\bin\Debug\net7.0\ConsoleCalculator.dll
+D:\myPractic\MathExercises\ConsoleCalculator\bin\Debug\net7.0\ConsoleCalculator.pdb
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.AssemblyInfo.cs
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.dll
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\refint\ConsoleCalculator.dll
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.pdb
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ConsoleCalculator.genruntimeconfig.cache
+D:\myPractic\MathExercises\ConsoleCalculator\obj\Debug\net7.0\ref\ConsoleCalculator.dll

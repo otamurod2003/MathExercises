@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\SeparateCamelCaseWordsInString.exe
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\SeparateCamelCaseWordsInString.deps.json
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\SeparateCamelCaseWordsInString.runtimeconfig.json
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\SeparateCamelCaseWordsInString.dll
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\SeparateCamelCaseWordsInString.pdb
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.AssemblyInfo.cs
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.dll
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\refint\SeparateCamelCaseWordsInString.dll
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.pdb
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\SeparateCamelCaseWordsInString.genruntimeconfig.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\ref\SeparateCamelCaseWordsInString.dll

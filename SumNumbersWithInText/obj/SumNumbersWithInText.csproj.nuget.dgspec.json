@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\myPractic\\MathExercises\\SumNumbersWithInText\\SumNumbersWithInText.csproj",
         "projectName": "SumNumbersWithInText",
         "projectPath": "D:\\myPractic\\MathExercises\\SumNumbersWithInText\\SumNumbersWithInText.csproj",
-        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Otamurod\\.nuget\\packages\\",
         "outputPath": "D:\\myPractic\\MathExercises\\SumNumbersWithInText\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Otamurod\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Администратор\\.nuget\\packages": {},
-          "https://www.nuget.org": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net7.0": {

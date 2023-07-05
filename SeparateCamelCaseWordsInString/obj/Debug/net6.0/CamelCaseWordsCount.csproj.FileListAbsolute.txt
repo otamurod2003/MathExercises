@@ -1,0 +1,15 @@
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\CamelCaseWordsCount.exe
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\CamelCaseWordsCount.deps.json
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\CamelCaseWordsCount.runtimeconfig.json
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\CamelCaseWordsCount.dll
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\bin\Debug\net6.0\CamelCaseWordsCount.pdb
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.csproj.AssemblyReference.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.AssemblyInfoInputs.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.AssemblyInfo.cs
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.csproj.CoreCompileInputs.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.dll
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\refint\CamelCaseWordsCount.dll
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.pdb
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\CamelCaseWordsCount.genruntimeconfig.cache
+D:\myPractic\MathExercises\SeparateCamelCaseWordsInString\obj\Debug\net6.0\ref\CamelCaseWordsCount.dll
